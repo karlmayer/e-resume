@@ -1,4 +1,4 @@
-name: Deploy about-me
+name: Deploy e-resume
 
 # Controls when the workflow will run
 on:
