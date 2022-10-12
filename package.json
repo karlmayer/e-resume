@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "build-resume-pdf": "npx resume export --theme ./resume/ --resume ./resume/resume.yaml ./dist/resume.pdf",
+    "build-resume-html": "mkdir dist; npx resume export --theme ./resume/ --resume ./resume/resume.yaml ./dist/resume.html",
+    "serve-resume": "npx resume serve --theme ./resume/  --resume ./resume/resume.yaml",
+    "validate-resume": "npx resume validate --resume ./resume/resume.yaml"
+  },
+  "devDependencies": {
+    "resume-cli": "karlmayer/resume-cli"
+  }
+}
