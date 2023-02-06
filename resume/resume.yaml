@@ -1,10 +1,10 @@
-$schema: "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json"
+$schema: https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json
 basics:
   name: Karl Mayer
   label: Sr. Director & Lead Architect
   image: ""
   email: karl.mayer@gmail.com
-  url: "http://karlmayer.dev"
+  url: http://karlmayer.dev
   summary: >
     Versatile leader with 20+ years IT experience, including systems
     architecture, design, operations, strategy, personnel management, finance,
@@ -26,19 +26,19 @@ basics:
     region: IN
   profiles:
     - network: Personal
-      username: "https://karlmayer.dev"
-      url: "https://karlmayer.dev"
+      username: karlmayer.dev
+      url: https://karlmayer.dev
     - network: LinkedIN
       username: karl--mayer
-      url: "https://www.linkedin.com/in/karl--mayer/"
+      url: https://www.linkedin.com/in/karl--mayer/
     - network: GitHub
       username: karlmayer
-      url: "https://github.com/karlmayer/"
+      url: https://github.com/karlmayer/
 
 work:
-  - name: "Eli Lilly, Global Information Systems"
+  - name: Eli Lilly, Global Information Systems
     position: Sr. Director & Lead Architect
-    url: "https://www.lilly.com/"
+    url: https://www.lilly.com/
     startDate: "2022-01-02"
     summary: >
       Architecture lead for Lilly's central IT organization, covering 5
@@ -67,9 +67,9 @@ work:
         4-year Architecture Apprenticeship mentor, and architecture advisor for
         Lilly Capability Center of India (LCCI) architecture team
 
-  - name: "Eli Lilly, Research Information & Digital Solutions"
+  - name: Eli Lilly, Research Information & Digital Solutions
     position: Director of Technology & Platforms
-    url: "https://www.lilly.com/"
+    url: https://www.lilly.com/
     endDate: "2021-12-30"
     startDate: "2020-03-02"
     summary: >
@@ -99,9 +99,9 @@ work:
         and total-cost-of-ownership financial information
 
   - breakBefore: true
-    name: "Eli Lilly, Research Information & Digital Solutions"
+    name: Eli Lilly, Research Information & Digital Solutions
     position: Security Advisor
-    url: "https://www.lilly.com/"
+    url: https://www.lilly.com/
     endDate: "2020-03-01"
     startDate: "2018-01-02"
     summary: >
@@ -143,9 +143,9 @@ work:
         AADS Visual Analytics Community of Practice co-chair with monthly
         attendance of 60-80 participants
 
-  - name: "Eli Lilly, Medicines Development Information & Digital Solutions"
+  - name: Eli Lilly, Medicines Development Information & Digital Solutions
     position: Clinical Results Architect
-    url: "https://www.lilly.com/"
+    url: https://www.lilly.com/
     endDate: "2017-12-31"
     startDate: "2013-01-01"
     summary: >
@@ -191,9 +191,9 @@ work:
         5-time speaker on topics including gamification, web service design and
         agile methodology
 
-  - name: "Eli Lilly, Lilly Research Labs"
+  - name: Eli Lilly, Lilly Research Labs
     position: Solution Delivery Consultant
-    url: "https://www.lilly.com/"
+    url: https://www.lilly.com/
     endDate: "2013-12-31"
     startDate: "2011-01-01"
     summary: >
@@ -221,9 +221,9 @@ work:
         multiple databases, and .NET, Java & R codebases
 
   - breakBefore: true
-    name: "Eli Lilly, Lilly Research Labs"
+    name: Eli Lilly, Lilly Research Labs
     position: Sr. Systems Engineer
-    url: "https://www.lilly.com/"
+    url: https://www.lilly.com/
     endDate: "2010-12-31"
     startDate: "2006-01-01"
     summary: >
@@ -255,9 +255,9 @@ work:
         Presented applied use of agile methodologies to IUPUI senior software
         engineers for five years
 
-  - name: "Eli Lilly, Global Business Integration Project"
+  - name: Eli Lilly, Global Business Integration Project
     position: Systems Analyst
-    url: "https://www.lilly.com/"
+    url: https://www.lilly.com/
     endDate: "2005-12-31"
     startDate: "2002-01-01"
     summary: Training administration solutions technical lead
@@ -278,7 +278,7 @@ work:
         queries from hours to seconds
 
   - name: Ready Machine Corporation
-    position: "Systems Administrator, concurrent with university studies"
+    position: Systems Administrator, concurrent with university studies
     endDate: "2002-01-01"
     startDate: "2000-01-01"
     summary: >-
@@ -288,38 +288,39 @@ work:
       system.
 
 volunteer:
-  - organization: "Mentor Collective, Indiana University Women & Technology"
+  - organization: Mentor Collective, Indiana University Women & Technology
     position: Collegiate Mentor
+    url: https://womenandtech.indiana.edu/programs/ementor-program.html
     startDate: "2022-07-01"
     summary: Mentor for collegiate and early career technology majors
   - organization: LillyCon Employee Activity Group
     position: Co-chair
     startDate: "2012-01-01"
-    summary: Co-founded an employee activity group for tabletop gaming
+    summary: Established and plan a 100+ member group for enjoying tabletop gaming
   - organization: 4-H & FIRST LEGO Robotics
     position: Assistant Coach
-    url: "https://www.firstlegoleague.org/"
+    url: https://www.firstlegoleague.org/
     startDate: "2022-02-01"
-    endDate: "2022-11-01"
+    endDate: "2022-12-01"
     summary: >-
       Coached STEM innovation, LEGO robotics design, and Scratch programming to
-      4th through 8th grade students
+      4-7th grade students
   - organization: Indiana Science Initiative
     position: Volunteer Aid
-    url: "https://www.istemnetwork.org/"
+    url: https://www.istemnetwork.org/
     startDate: "2013-01-01"
     endDate: "2014-01-01"
     summary: Supported I-STEM programs for 1st and 2nd grade students
 
 education:
   - institution: Indiana University
-    url: "https://www.indiana.edu/"
+    url: https://www.indiana.edu/
     area: Computer Science
-    studyType: "Bachelor of Science, Honors"
+    studyType: Bachelor of Science, Honors
     endDate: 2002-05
     startDate: 1998-08
   - institution: Indiana University
-    url: "https://www.indiana.edu/"
+    url: https://www.indiana.edu/
     area: Kelley School of Business
     studyType: Minor
     endDate: 2001-05
@@ -330,39 +331,41 @@ awards:
     awarder: Eli Lilly
     summary: >
       Solutions: CATS (GitOps-Kubernetes Platform), Clinical Data For Research,
-      Collaboration Informatics, 
-
-      Clinical Data Flow, Clinical Risk-based Monitoring, Competitive
-      Intelligence Data Mining, Discovery Target Assessment
+      Collaboration Informatics, Clinical Data Flow, Clinical Risk-based Monitoring,
+      Competitive Intelligence Data Mining, Discovery Target Assessment
 
 certificates:
-  - name: Leading SAFe & Certified SAFe 5 Agilist
+  - name: Certified SAFe 5 Lean Portfolio Manager
+    date: "2023-02-03"
+    url: https://www.credly.com/badges/2002e686-f459-4730-8dca-58b3da772bcf/public_url
+  - name: Certified SAFe 5 Architect
+    date: "2022-12-16"
+    url: https://www.credly.com/badges/5237048b-1130-4b46-a82c-c6f2bd9d0fc3/public_url
+  - name: Certified SAFe 5 Agilist (Leading SAFe)
     date: "2022-10-09"
     url: https://www.credly.com/badges/38e903c9-a926-47a7-980a-9a043fa7d746/public_url
   - name: Lilly Global Leadership Program
     date: "2021-01-01"
   - name: AWS Cloud Practitioner
     date: "2018-01-01"
-    url: "https://aws.amazon.com/training/learn-about/cloud-practitioner/"
+    url: https://aws.amazon.com/training/learn-about/cloud-practitioner/
   - name: ITIL Service Management Foundation
     date: "2012-01-01"
-    url: >-
-      https://www.axelos.com/certifications/itil-service-management/itil-4-foundation
+    url: https://www.axelos.com/certifications/itil-service-management/itil-4-foundation
   - name: Lilly Targeted Ambassador Program
     date: "2012-01-01"
-    description: "compliance, controls & auditing"
-  - name: IDesign Architect’s Master Class
+    description: compliance, controls & auditing
+  - name: IDesign Architect's Master Class
     date: "2009-01-01"
-    url: "https://www.idesign.net/Training/Architect-Master-Class"
+    url: https://www.idesign.net/Training/Architect-Master-Class
     description: null
-  - name: TOGAF (The Open Group Architecture Framework) Foundation
+  - name: TOGAF Foundation
     date: "2009-01-01"
-    url: "https://www.opengroup.org/certifications/togaf"
+    url: https://www.opengroup.org/certifications/togaf
     description: null
   - name: Software Engineering Body of Knowledge (SWEBOK)
     date: "2007-01-01"
-    url: >-
-      https://www.computer.org/education/bodies-of-knowledge/software-engineering
+    url: https://www.computer.org/education/bodies-of-knowledge/software-engineering
     description: null
 
 publications:
@@ -372,15 +375,14 @@ publications:
     url: >-
       http://www.transceleratebiopharmainc.com/wp-content/uploads/2016/01/TransCelerate-RBM-Position-Paper-FINAL-30MAY2013.pdf.pdf
     summary: >-
-      Contributing author on technological enablement of clinical risk-based
-      monitoring
+      Contributing author on technological enablement of clinical risk-based monitoring
   - name: Life Science Grid
     publisher: SourceForge
     releaseDate: "2008-04-21"
-    url: "https://sourceforge.net/projects/lsg/"
+    url: https://sourceforge.net/projects/lsg/
     summary: >-
-      Sponsored Eli Lilly's first open-source software product , a .NET
-      framework for creating scientific applications
+      Sponsored Eli Lilly's first open-source software product, a .NET
+      framework for developing scientific applications
 
 skills:
   - name: Experience
@@ -414,7 +416,7 @@ skills:
       - wikis
   - name: Languages
     keywords:
-      - "C#"
+      - C#
       - C++
       - Java
       - JavaScript
@@ -423,7 +425,7 @@ skills:
       - TypeScript
 
 meta:
-  url: "https://github.com/karlmayer/about-me/blob/main/resume/resume.yaml"
+  url: https://github.com/karlmayer/e-resume/blob/main/resume/resume.yaml
   canonical: >-
     https://raw.githubusercontent.com/jsonresume/resume-schema/master/schema.json
   version: v1.0.0

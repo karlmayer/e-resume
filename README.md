@@ -1,6 +1,14 @@
 # Karl Mayer's e-resume
 My electronic résumé, generated from [yaml](https://github.com/karlmayer/e-resume/blob/main/resume/resume.yaml) using [https://jsonresume.org](https://jsonresume.org/)
 
+## Getting started
+```shell
+sudo apt install libnss3
+sudo apt install libgbm1
+sudo apt install libasound2
+npm install
+npm run
+```
 
 ## Licenses
 **source code:** [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
