@@ -16,6 +16,7 @@
     "validate-resume": "npx resume validate --resume ./resume/resume.yaml"
   },
   "devDependencies": {
-    "resume-cli": "karlmayer/resume-cli"
+    "puppeteer": "^15.5.0",
+    "resume-cli": "github:karlmayer/resume-cli"
   }
 }

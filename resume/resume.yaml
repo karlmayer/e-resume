@@ -3,145 +3,156 @@ basics:
   name: Karl Mayer
   label: Sr. Director & Lead Architect
   image: ""
-  email: karl.mayer@gmail.com
-  url: http://karlmayer.dev
+  email: karl.mayer@lilly.com
+  # url: http://karlmayer.dev
+
   summary: >
-    Versatile leader with 20+ years IT experience, including systems
-    architecture, design, operations, strategy, personnel management, finance,
-    and communication. Excel at  connecting and guiding globally-distributed
-    teams on lean-agile software and value delivery. 
+    Strategic technology leader with 20+ years of experience in enterprise data
+    architecture, scientific informatics, and cross-functional platform
+    leadership in pharma and biotech. Deep background designing scalable data
+    infrastructure, enabling AI/ML-ready systems, and translating complex
+    scientific needs into foundational data and software platforms.
 
-    Motivational team builder who prioritizes mentoring, networking, and
-    collaboration. Avid reader of technology and innovation, and a hobbyist
-    programmer and data scientist. Creative and tenacious problem solver; able
-    to convey and solve complex business and technology challenges.
+    Proven track record building enterprise data ecosystems, leading
+    multidisciplinary architecture teams in matrixed global organizations, and
+    championing data quality, governance, and FAIR principles. Deep domain
+    expertise across the scientific data types that underpin molecule discovery:
+    compound registration, assay and screening data, in vivo and in vitro
+    results, LIMS, ELN, and genomics/proteomics. Experienced partnering across
+    research, informatics, cybersecurity, and executive stakeholders to align
+    technology strategy with scientific mission.
 
-    Core philosophies: people over products over process; script the critical
-    moves; simplicity as a force
+    Guiding philosophies: <i>◇ Architecture externalizes assumptions.
+    &nbsp;&nbsp;◇ Script the critical moves. &nbsp;&nbsp;◇ Simplicity is an
+    applied force.
   location:
     address: .
     postalCode: .
     city: Indianapolis
     countryCode: USA
     region: IN
-  profiles:
-    - network: Personal
-      username: karlmayer.dev
-      url: https://karlmayer.dev
-    - network: LinkedIN
-      username: karl--mayer
-      url: https://www.linkedin.com/in/karl--mayer/
-    - network: GitHub
-      username: karlmayer
-      url: https://github.com/karlmayer/
+  # profiles:
+  #   - network: Personal
+  #     username: karlmayer.dev
+  #     url: https://karlmayer.dev
+  #   - network: LinkedIN
+  #     username: karl--mayer
+  #     url: https://www.linkedin.com/in/karl--mayer/
+  #   - network: GitHub
+  #     username: karlmayer
+  #     url: https://github.com/karlmayer/
 
 work:
-  - name: Eli Lilly, Global Information Systems
+  - name: Eli Lilly, Digital Core
     position: Sr. Director & Lead Architect
     url: https://www.lilly.com/
     startDate: "2022-01-02"
     summary: >
-      Architecture lead for Lilly's central IT organization, covering 5
-      associate VPs and 260 personnel, with a focus on enterprise platforms,
-      infrastructure, and workplace productivity
+      Architecture lead for Lilly's Digital Core, spanning Engineering,
+      Enterprise Data, Cloud, Service Management, Digital Employee Experience,
+      and Mobility, driving platform strategy, AI-native tooling, and
+      technology governance in close partnership with Enterprise Data architects
+      and product owners.
     highlights:
       - >
-        Created and host GIS Architecture Council, comprised of 20+ architects,
-        with a mission to accelerate digitalization, catalyze cross-cutting
-        concerns, and improve shared consciousness
+        Leading architecture and engineering for three AI products on Lilly's
+        Cortex AI Platform: ChatNow (600+ users, delivered 2-3 months early),
+        Finance Agentic Transformation (alpha delivered within first month), and
+        Fuse, a Digital Core Marketplace for technology products and services.
+        Driving agentic workflow design, API integration patterns, and platform
+        capability exploitation across all three.
       - >
-        Enterprise architecture representative, focusing on agile organization
-        architecture, communication channels, business strategy / technology
-        alignment, and technology portfolio rationalization
+        Chair the Digital Core Architecture x Innovation Council, driving architectural
+        excellence, resolving organizational cross-cutting concerns, and
+        accelerating innovation pull-through across Digital Core capabilities.
       - >
-        Innovation Council coach promoting innovation frameworks and challenge
-        competitions, including optimizing personnel onboarding, natural
-        language generation, and augmented reality
+        Own TechHQ, a technology knowledge platform where architects across
+        Tech@Lilly contribute technology positioning, guidance, and next steps
+        to equip architects and technical leaders with authoritative ecosystem
+        knowledge. Now serving as a primary knowledge source for grounding AI
+        with accurate context about Lilly's technology landscape.
       - >
-        Leading Lilly ELITE TechUP to promote early career professional
-        technical upskilling in data science
+        Led DevX Program with 2,500+ participants, delivering developer
+        experience savings through AI pair programmers, knowledge reuse, and
+        streamlined onboarding across 80+ engineers in 15+ repositories.
       - >
-        Guiding strategies in APIs, containerization, cloud security posture
-        management, and knowledge management
-      - >
-        4-year Architecture Apprenticeship mentor, and architecture advisor for
-        Lilly Capability Center of India (LCCI) architecture team
-
-  - name: Eli Lilly, Research Information & Digital Solutions
+        Serve as Business Relationship Manager to Digital Office / Global
+        Services, representing Digital Core strategic priorities across HR,
+        Finance, and Legal functions, directly informing AI transformation
+        initiatives including Finance Agentic Transformation.
+  - breakBefore: true
+    name: Eli Lilly, Research Information & Digital Solutions
     position: Director of Technology & Platforms
     url: https://www.lilly.com/
     endDate: "2021-12-30"
     startDate: "2020-03-02"
     summary: >
-      Managed a team of 20 personnel, globally distributed and focused on
-      biology and chemistry DevOps
+      Managed a globally distributed team of 20 engineers and informaticians
+      responsible for engineering and operations of biology, chemistry, and
+      analytical chemistry research systems, with architectural risk oversight
+      of the Benchling and Biologica large molecule implementation, and active
+      participation on the electronic Lab Notebook (eLN) Steering Team.
     highlights:
       - >
-        Sustained frequent 1:1s, focusing on individuals' engagement, career
-        growth, technical development, and work prioritization
+        Owned PerkinElmer Signals, Genedata Screener, and Agilent OpenLAB
+        platforms, including vendor management with Agilent; contributed to
+        early PerkinElmer Signals deployment strategy and drove architecture
+        standards for HTS and analytical chemistry data capture and integration
+        across chemistry research workflows.
       - >
-        Prioritized joy, wellness, and work-life balance throughout COVID
-        work-from-home
+        Led architecture and delivery of Thalamus, a Kafka-based platform to
+        ingest and aggregate analytical lab data in real time, capturing raw
+        instrument data with full scientific context — modernizing legacy
+        home-grown systems, reducing dependency on costly LIMS platforms, and
+        establishing a scalable foundation for scientific computing.
       - >
-        Co-hosted an architecture community, and collaborated in Enterprise
-        Architecture, Automation Enablement, and Cloud OCM
+        Sponsored CATS, the GitOps Kubernetes platform, saving 9,000+ developer
+        hours in year one, and AWS onboarding and Kafka data aggregation
+        platforms to modernize data infrastructure across biology, chemistry,
+        and analytical research workflows.
       - >
-        Sponsored technology platforms for AWS onboarding, Kafka data
-        aggregation, and a GitOps Kubernetes cluster that delighted developers
-        and is estimated to save 9000 developer hours annually
-      - >
-        Expanded Lilly Capability Center of India (LCCI) organization by
-        conducting dozens of interviews, streamlining onboarding, prioritizing
-        work transition, and cultivating team-of-teams culture
-      - >
-        Supported annual business planning and 220+ application portfolio
-        rationalization by managing technical debt, information security risk,
-        and total-cost-of-ownership financial information
+        Contributed to Research.Data, Lilly's enterprise research data
+        ecosystem, bringing deep domain expertise across compound registration,
+        assay and screening data, in vivo and in vitro results, large and small
+        molecule data, ELN data, and genomics/proteomics — ensuring
+        comprehensive domain coverage and unified scientific data access across
+        research organizations.
 
-  - breakBefore: true
-    name: Eli Lilly, Research Information & Digital Solutions
+
+  - name: Eli Lilly, Research Information & Digital Solutions
     position: Security Advisor
     url: https://www.lilly.com/
     endDate: "2020-03-01"
     startDate: "2018-01-02"
     summary: >
-      Managed the Research information security initiative portfolio, led AWS
-      Well-Architected, risk assessments & threat modeling, and championed
-      security-by-design
+      Served as embedded architect and security lead for LRL, reporting to the
+      Sr. VP of Lilly Research Labs. Brought deep security-by-design expertise
+      and architectural leadership to the Research information security
+      portfolio, leading AWS Well-Architected reviews, risk assessments, threat
+      modeling, and risk management frameworks. Developed executive dashboards
+      and KPIs for VP and AVP audiences integrating ServiceNow, Archer IRM, and
+      cloud sources.
     highlights:
       - >
-        Collaborated with Global Information Services and InfoSec organizations
-        to achieve risk reduction objectives, including assessing and
-        remediating 35 security critical systems;
+        Architected integrated analytics and reporting frameworks combining
+        ServiceNow, Archer IRM, and cloud data sources into unified Tableau
+        dashboards, delivering actionable insights to VP and AVP stakeholders
+        across security and compliance domains.
+      - >
+        Led Collaboration Informatics solution to provision cloud data science
+        environments; engaged infrastructure teams to accelerate
+        High-Performance Computing in AWS, Clinical Data for Research, and a
+        Kubernetes-based data science platform.
+      - >
+        Collaborated with Advanced Analytics & Data Science (AADS) on
+        integration patterns and data infrastructure strategy for the Enterprise
+        Data Backbone, and co-chaired the AADS Visual Analytics Community of
+        Practice with 60–80 monthly participants.
+      - >
+        Led enterprise-wide technology assessment of 35+ security-critical
+        systems, developing recommendations that eliminated 82 B2B VPNs and
+        transitioned 7 business-supported systems to IT.
 
-        transitioning 7 business-supported systems to IT; and supporting
-        organizational change to eliminate 82 B2B VPNs
-      - >
-        Balanced security and business efficiency by evolving R&D Business
-        Development processes, assessing pre-patent confidential information
-        risks, and influencing InfoSec guidance
-      - >
-        Led Collaboration Informatics solution to rapidly provision cloud data
-        science environments, and engaged infrastructure and security teams to
-        accelerate cloud solutions, including
-
-        High-Performance Computing in AWS, Clinical Data for Research, Research
-        data lake, lab network modernization, and a Kubernetes-based data
-        science platform
-      - >
-        Co-led Research IDS CloudOps and advocated cloud transformation,
-        DevSecOps mindset, container-driven collaboration, and enhancing
-        developers' experience
-      - >
-        Organized monthly AWS lunch & learns with 20+ attendees, and established
-        GitHub projects for innersourcing and knowledge sharing wikis
-      - >
-        Frequent collaborator with Advanced Analytics & Data Science (AADS)
-        organization, supporting Enterprise Data Backbone and Joint Information
-        Architects, and 
-
-        AADS Visual Analytics Community of Practice co-chair with monthly
-        attendance of 60-80 participants
 
   - name: Eli Lilly, Medicines Development Information & Digital Solutions
     position: Clinical Results Architect
@@ -149,111 +160,101 @@ work:
     endDate: "2017-12-31"
     startDate: "2013-01-01"
     summary: >
-      Domain architect for Clinical Data Flow, Biometrics and Product & Project
-      Management systems across five managers
+      Domain architect for Clinical Data Flow, Biometrics, and Product & Project
+      Management systems. Led foundational data architecture, data pipeline
+      strategy, and clinical risk measurement frameworks.
     highlights:
       - >
-        Founding member of Medicine Development's Architecture Office, and owner
-        of clinical business architecture strategy and accompanying artifacts
+        Founding member of Medicine Development's Architecture Office; owned
+        clinical business architecture strategy, data models, and accompanying
+        artifacts spanning chemical, biological, and clinical data domains.
       - >
-        Facilitated an 8-month RFP (request for proposal) and use case
-        evaluation for a multi-million, cloud-based Clinical Data Flow
-        platform. 
-
-        Co-led staffing a new organizational unit and fostering two external
-        company partnerships.
-
-        Planned a 3-year roadmap for data pipelines from 10 source systems into
-        a clinical results warehouse.
+        Led architecture for Clinical Data Flow, an 8-month multi-million-dollar
+        cloud platform RFP with a 3-year data pipeline roadmap spanning 10
+        source systems; co-architected the MD-IDS InfoHub, unifying data access
+        across medicine development informatics and clinical systems.
       - >
-        Architected CLUWE, a modern, clinical data statistical computing
-        environment, and navigated the 20+ personnel team through scoping,
-        prioritization, and intrapersonal conflicts
+        Designed CLUWE, a statistical computing environment for clinical data
+        that replaced multiple SAS systems and manual business processes,
+        serving statisticians and clinical data managers. Led a 20+ person team
+        through scoping, prioritization, and delivery; the platform remains in
+        production to this day.
       - >
-        Led LogicView, a pioneering solution for centralized risk-based
-        monitoring of clinical patient safety & data quality that yielded $10M
-        first year savings.
-
-        Grew project team to 12, managed budget, and oversaw development for 13
-        studies and 60+ analytics. 
-
-        Participated in authoring the TransCelerate BioPharma Risk-Based
-        Monitoring Technology White Paper.
+        Directed LogicView, a centralized solution for clinical patient safety
+        and data quality monitoring, delivering $10M in first-year savings. Grew
+        team to 12, managed budget, and oversaw development for 13 studies and
+        60+ analytics. Influenced industry standards for measuring clinical
+        trial risk.
       - >
-        Developed an interactive Tableau map of migraine patient density that
-        aided Biomedicines in finding two additional study sites of previously
-        unrecognized patient saturation
-      - >
-        3-time creative lead for IT Conference game shows, taking inspiration
-        from Shark Tank, The Voice and Hollywood Game Night, to combine fun with
-        innovation, and 
+        Contributing author on the TransCelerate BioPharma Risk-Based Monitoring
+        Technology White Paper, helping define industry standards for clinical
+        risk assessment and monitoring.
+      # - >
+      #   Developed an interactive Tableau map of migraine patient density,
+      #   enabling discovery of two additional study sites with previously
+      #   unrecognized patient saturation.
 
-        5-time speaker on topics including gamification, web service design and
-        agile methodology
-
-  - name: Eli Lilly, Lilly Research Labs
+  - breakBefore: true
+    name: Eli Lilly, Lilly Research Labs
     position: Solution Delivery Consultant
     url: https://www.lilly.com/
     endDate: "2013-12-31"
     startDate: "2011-01-01"
     summary: >
       Technical lead and systems engineer for Discovery IT systems, including
-      RRL (Research Results Loader), CISCO (Clinical Information Surveillance of
-      Competitor Organizations), and CSI (Crowd-Sourced Intelligence)
+      RRL (Research Results Loader), CSI (Crowd-Sourced Intelligence), and the
+      LRL Data Hub research data ecosystem.
     highlights:
       - >
-        Team and product lead for RRL, a web-based, self-service data processing
-        solution. RRL has been in production use for a decade, verifying and
-        loading tens of thousands of internal and external datasets.
+        Led RRL, a web-based self-service data ingestion platform supporting
+        verification and loading of tens of thousands of datasets across dozens
+        of external research collaborations — a production-grade system in
+        continuous use for over a decade.
       - >
-        Technical lead for CISCO, a solution to optimizing clinical enrollment
-        strategies and discover potential health care provider participants
+        Directed a team of 8 engineers designing CSI, a competitive intelligence
+        data mining solution leveraging semantic web linked data.
       - >
-        Team lead for 8 engineers and informaticians designing CSI, a
-        competitive intelligence data mining solution based on semantic web
-        linked data
+        Rehosted and refactored a portfolio of a dozen translational research
+        systems from Singapore to the US in 3 months, encompassing two data
+        center migrations, multiple databases, and .NET, Java, and R codebases.
       - >
-        Hosted bi-monthly software engineering forums for two years; voluntary
-        attendance averaged 15
-      - >
-        Rehosted and refactored a complex translational research solution from
-        Singapore to US in 3 months, which included two data center migrations,
-        multiple databases, and .NET, Java & R codebases
+        Co-architected the LRL Data Hub with ResultWorks, developing formal
+        entity-relationship models, ontologies, and logical architecture across
+        core research data domains including compound registration, assay and
+        screening data, in vivo and in vitro results, and genomics/proteomics —
+        a foundational effort that served as the conceptual precursor to the
+        MD-IDS InfoHub and Research.Data ecosystems.
 
-  - breakBefore: true
-    name: Eli Lilly, Lilly Research Labs
+  - name: Eli Lilly, Lilly Research Labs
     position: Sr. Systems Engineer
     url: https://www.lilly.com/
     endDate: "2010-12-31"
     startDate: "2006-01-01"
     summary: >
-      Technical lead and systems engineer for Discovery IT systems, including
-      Discovery Target Analysis Tool (DTAT), In Vitro Results Sweeper,  and
-      service-oriented architecture (SOA) strategy
+      Technical lead and systems engineer for Discovery IT systems with a focus
+      on scientific data integration, linked data and ontology strategies, and
+      bespoke research informatics solutions.
     highlights:
       - >
-        2-year product lead for DTAT, a bespoke discovery research system used
-        by 500 LRL scientists and developed by 15+ engineers and informaticians
-        in the US, Europe, and Singapore.
+        2-year product lead for DTAT, a discovery research platform used by 500
+        LRL scientists, developed by 15+ engineers across the US, Europe, and
+        Singapore. Surfaced genomics, proteomics, competitive intelligence, and
+        Research wikis across 22 modules. Automated months of manual curation
+        with a competitor drug landscape module.
+      - >
+        Designed the In Vitro Results Sweeper, a custom ETL engine with an XML
+        DSL that replaced 3 ETL systems and supported 15 external scientific
+        collaborations through schema-driven, reusable data integration.
+      - >
+        Spearheaded adoption of Semantic Web technology for linked data,
+        including graph databases, OWL ontologies, and SPARQL — foundational
+        experience in controlled vocabularies and interoperable data models that
+        continues to inform current work in knowledge graphs and AI-native
+        data infrastructure.
+      - >
+        Three-year contributor to Microsoft's ASP.NET Web API and Open Data
+        advisory groups, shaping interoperable API standards.
 
-        DTAT's 22 modules surfaced genomics and proteomics information;
-        competitive intelligence; and Research data and wikis.
-
-        Developed a competitor drug landscape module, automating months of
-        manual curation.
-      - >
-        Designed and developed In Vitro Results Sweeper, a custom ETL engine
-        with a XML DSL (domain-specific language) that replaced 3 ETL systems
-        and supported 15 external collaborations
-      - >
-        Spearheaded using Semantic Web technology for linked data, including
-        graph databases, OWL & SPARQL
-      - >
-        Three-year contributor to Microsoft’s ASP.NET Web API and Open Data
-        advisory groups
-      - >
-        Presented applied use of agile methodologies to IUPUI senior software
-        engineers for five years
 
   - name: Eli Lilly, Global Business Integration Project
     position: Systems Analyst
@@ -263,54 +264,39 @@ work:
     summary: Training administration solutions technical lead
     highlights:
       - >-
-        Introduced automated testing of the GMP-validated (Good Manufacturing
-        Practice) training system to increase change velocity and decrease
-        defects
+        Introduced automated testing of the GMP-validated training system to
+        increase change velocity and decrease defects.
       - >-
-        Doubled the efficiency of training data EDI with SAP, and designed
-        GBIP's first SOAP web service to integrating a MES (Manufacturing
-        Execution System) in Sesto, Italy
+        Doubled the efficiency of training data EDI with SAP and designed GBIP's
+        first SOAP web service to integrate a MES (Manufacturing Execution
+        System) in Sesto, Italy.
       - >-
-        Designed Web 2.0 reporting, prior to JS UI frameworks, to improve
-        supervisor user experience
-      - >-
-        Redesigned database schema and migrated 40M records to reduce report
-        queries from hours to seconds
+        Redesigned database schema and migrated 40M records, reducing report
+        query times from hours to seconds.
 
   - name: Ready Machine Corporation
     position: Systems Administrator, concurrent with university studies
     endDate: "2002-01-01"
     startDate: "2000-01-01"
     summary: >-
-      Sole IT professional supporting a 40-employee tool & die business.
-      Procured software and computer hardware and installed Ethernet network.
-      Developed and integrated a custom inventory system with a commercial ERP
-      system.
+      Sole IT professional for a 40-employee tool & die business. Procured
+      software and hardware, installed Ethernet network, and designed a custom
+      inventory system integrated with a commercial ERP solution.
 
 volunteer:
+  - organization: FIRST & 4-H Robotics
+    position: Team Coach
+    url: https://www.firstlegoleague.org/
+    startDate: "2022-02-01"
+    summary: >-
+      Teach and mentor STEM innovation, robotics design, programming, and AI/ML
+      to 4–9th grade students
   - organization: Mentor Collective, Indiana University Women & Technology
     position: Collegiate Mentor
     url: https://womenandtech.indiana.edu/programs/ementor-program.html
     startDate: "2022-07-01"
+    endDate: "2023-07-01"
     summary: Mentor for collegiate and early career technology majors
-  - organization: LillyCon Employee Activity Group
-    position: Co-chair
-    startDate: "2012-01-01"
-    summary: Established and plan a 100+ member group for enjoying tabletop gaming
-  - organization: 4-H & FIRST LEGO Robotics
-    position: Assistant Coach
-    url: https://www.firstlegoleague.org/
-    startDate: "2022-02-01"
-    endDate: "2022-12-01"
-    summary: >-
-      Coached STEM innovation, LEGO robotics design, and Scratch programming to
-      4-7th grade students
-  - organization: Indiana Science Initiative
-    position: Volunteer Aid
-    url: https://www.istemnetwork.org/
-    startDate: "2013-01-01"
-    endDate: "2014-01-01"
-    summary: Supported I-STEM programs for 1st and 2nd grade students
 
 education:
   - institution: Indiana University
@@ -327,46 +313,49 @@ education:
     startDate: 1999-08
 
 awards:
-  - title: 7-time CIDO (Chief Information & Digital Officer) Award Finalist
+  - title: CIDO (Chief Information & Digital Officer) Award Finalist
     awarder: Eli Lilly
     summary: >
-      Solutions: CATS (GitOps-Kubernetes Platform), Clinical Data For Research,
-      Collaboration Informatics, Clinical Data Flow, Clinical Risk-based Monitoring,
-      Competitive Intelligence Data Mining, Discovery Target Assessment
+      Recognized for technology leadership excellence in: 6-Month AI Plan,
+      Innovation Council, CATS (GitOps-Kubernetes Platform), Clinical Data For
+      Research, Collaboration Informatics, Clinical Data Flow, Clinical
+      Risk-based Monitoring, Competitive Intelligence Data Mining, Discovery
+      Target Assessment
 
 certificates:
-  - name: Certified SAFe 5 Lean Portfolio Manager
-    date: "2023-02-03"
-    url: https://www.credly.com/badges/2002e686-f459-4730-8dca-58b3da772bcf/public_url
-  - name: Certified SAFe 5 Architect
-    date: "2022-12-16"
+  - name: Microsoft Azure AI Fundamentals AI-900
+    date: "2025-05-01"
+  - name: GitHub Copilot
+    date: "2025-05-01"
+  - name: Microsoft Azure Fundamentals AZ-900
+    date: "2024-08-01"
+  - name: AWS Certified Solutions Architect - Associate
+    date: "2023-07-01"
+    url: https://aws.amazon.com/certification/certified-solutions-architect-associate/
+  - name: Certified SAFe 6 Architect
+    date: "2022-12-01"
     url: https://www.credly.com/badges/5237048b-1130-4b46-a82c-c6f2bd9d0fc3/public_url
-  - name: Certified SAFe 5 Agilist (Leading SAFe)
-    date: "2022-10-09"
+  - name: Certified SAFe 6 Lean Portfolio Manager
+    date: "2022-02-01"
+    url: https://www.credly.com/badges/2002e686-f459-4730-8dca-58b3da772bcf/public_url
+  - name: Certified SAFe 6 Agilist (Leading SAFe)
+    date: "2022-10-01"
     url: https://www.credly.com/badges/38e903c9-a926-47a7-980a-9a043fa7d746/public_url
   - name: Lilly Global Leadership Program
     date: "2021-01-01"
   - name: AWS Cloud Practitioner
     date: "2018-01-01"
-    url: https://aws.amazon.com/training/learn-about/cloud-practitioner/
   - name: ITIL Service Management Foundation
     date: "2012-01-01"
-    url: https://www.axelos.com/certifications/itil-service-management/itil-4-foundation
-  - name: Lilly Targeted Ambassador Program
-    date: "2012-01-01"
-    description: compliance, controls & auditing
   - name: IDesign Architect's Master Class
     date: "2009-01-01"
     url: https://www.idesign.net/Training/Architect-Master-Class
-    description: null
   - name: TOGAF Foundation
     date: "2009-01-01"
     url: https://www.opengroup.org/certifications/togaf
-    description: null
   - name: Software Engineering Body of Knowledge (SWEBOK)
     date: "2007-01-01"
     url: https://www.computer.org/education/bodies-of-knowledge/software-engineering
-    description: null
 
 publications:
   - name: Risk-Based Monitoring Methodology
@@ -375,49 +364,49 @@ publications:
     url: >-
       http://www.transceleratebiopharmainc.com/wp-content/uploads/2016/01/TransCelerate-RBM-Position-Paper-FINAL-30MAY2013.pdf.pdf
     summary: >-
-      Contributing author on technological enablement of clinical risk-based monitoring
+      Contributing author on technological enablement of clinical risk-based
+      monitoring — establishing industry standards for data-driven clinical risk
+      assessment
   - name: Life Science Grid
     publisher: SourceForge
     releaseDate: "2008-04-21"
     url: https://sourceforge.net/projects/lsg/
     summary: >-
-      Sponsored Eli Lilly's first open-source software product, a .NET
-      framework for developing scientific applications
+      Sponsored Eli Lilly's first open-source software product, a .NET framework
+      for developing scientific applications
 
 skills:
   - name: Experience
     keywords:
-      - Cloud Infrastructure
-      - CyberSecurity
-      - Data Science
-      - Design Thinking
-      - DevOps
-      - Distributed System Architecture
+      - Scientific Informatics
+      - Enterprise Platform Strategy
+      - AI/ML & Agentic Workflows
+      - Ontology & Schema Design
+      - Data Architecture & Governance
+      - Cloud IaaS/PaaS (AWS, Azure)
+      - DevSecOps
       - Enterprise Architecture
-      - Information Architecture
-      - Innovation Strategy
-      - Personnel Management
-      - Risk Management
-      - Service Management
-      - Solution Engineering
+      - Cross-Functional Leadership
+      - Program Management
+      - Executive Reporting & KPIs
+      - Risk Assessment Frameworks
+      - Lean-Agile Transformation
   - name: Toolbox
     keywords:
       - AWS
       - Azure
-      - D3
-      - Docker
       - GitHub
       - Jira
-      - Jupyter
+      - Knowledge Graphs
       - Kubernetes
-      - NodeJS
+      - LLMs / MCP
+      - ServiceNow
       - Tableau
-      - VS Code
-      - wikis
   - name: Languages
     keywords:
       - C#
       - C++
+      - Golang
       - Java
       - JavaScript
       - Python
@@ -429,4 +418,4 @@ meta:
   canonical: >-
     https://raw.githubusercontent.com/jsonresume/resume-schema/master/schema.json
   version: v1.0.0
-  lastModified: "2022-10-07"
+  lastModified: "2025-02-22"

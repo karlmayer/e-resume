@@ -7,6 +7,7 @@ body {
 
 em {
 	color: #999;
+	font-style: normal;
 }
 
 p {
@@ -91,6 +92,7 @@ section h2 {
 	margin: 0 1em 0.2em 0;
 	display: inline-block;
 	font-weight: 600;
+	font-style: normal;
 }
 
 .item header a {
@@ -103,6 +105,7 @@ section h2 {
 	font-weight: 600;
 	font-size: 100%;
 	margin: 0.2em 1em 0.2em 0;
+	font-style: normal;
 }
 
 .item .publisher,
@@ -118,6 +121,10 @@ section h2 {
 .item .highlights {
 	list-style: square;
 	font-size: 90%;
+}
+
+.item .highlights li {
+	font-style: normal;
 }
 
 /* skills */
