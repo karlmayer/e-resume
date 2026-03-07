@@ -10,6 +10,7 @@
     "url": "https://github.com/karlmayer/e-resume.git"
   },
   "scripts": {
+    "build": "npm run build-resume-html && npm run build-resume-pdf",
     "build-resume-pdf": "mkdir -p dist; npx resume export --theme ./resume/ --resume ./resume/resume.yaml ./dist/resume.pdf",
     "build-resume-html": "mkdir -p dist; npx resume export --theme ./resume/ --resume ./resume/resume.yaml ./dist/resume.html",
     "serve-resume": "npx resume serve --theme ./resume/  --resume ./resume/resume.yaml",
