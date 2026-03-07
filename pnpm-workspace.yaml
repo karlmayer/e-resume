@@ -1,2 +1,5 @@
+packages:
+  - 'resume'
+
 ignoredBuiltDependencies:
   - puppeteer
