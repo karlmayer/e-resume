@@ -1,5 +1,6 @@
 packages:
   - 'resume'
 
-ignoredBuiltDependencies:
-  - puppeteer
+allowBuilds:
+  puppeteer: true
+  resume-cli: true
